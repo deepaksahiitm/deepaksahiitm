@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepaksahiitm
+- 👋 Hi, I’m Deepak.
 - 👀 I’m interested in Robotics & IOT,Python,Data Science,Cloud Computing
 - 🌱 I’m currently pursuing M.tech at Indian Institute of Technology Mandi
 - 💞️ I’m looking to collaborate on Robotics & IoT Trainning & Events.
