@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepaksahiitm
-- 👀 I’m interested in robotics,iot,coding,ML,google cloud Computing
+- 👀 I’m interested in robotics,iot,coding,data science,ML,google cloud Computing
 - 🌱 I’m currently pursuing M.tech at Indian Institute of Technology Mandi
 - 💞️ I’m looking to collaborate on Robotics & IoT Trainning & Events.
 - 📫 You can reach me out by my Linkedin profile : www.linkedin.com/in/deepakiot
